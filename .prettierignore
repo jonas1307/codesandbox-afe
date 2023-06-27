@@ -1,0 +1,4 @@
+# Ignore artifacts:
+.codesandbox
+build
+coverage
